@@ -1,0 +1,97 @@
+IPAF version 1
+Ssef <
+G_Reset_TWI sid<
+>>Sptr <
+G_Reset_TWI ptr<
+0_|
+1_|
+2_|
+>>Smust <
+G_Reset_TWI ptb<
+>>Scnal <
+_Reset_TWI <
+>>Sprpc <
+_Reset_TWI <
+>>Ssef <
+G_TWI_MasterMode_Write sid<
+>>Sptr <
+G_TWI_MasterMode_Write ptr<
+0_|
+1_|
+2_|
+3_|
+4_|12_
+5_13_|
+6_14_|
+7_|
+8_|
+9_|
+10_|
+11_|
+12_|15_16_17_18_
+13_|
+14_|
+15_|
+16_|
+17_|
+18_|
+19_|
+20_|
+21_|
+22_|
+23_|
+24_|
+25_|
+26_|
+>>Smust <
+G_TWI_MasterMode_Write ptb<
+>>Scnal <
+_TWI_MasterMode_Write <
+_TWI_MasterMode_Write:1 =60_
+_TWI_MasterMode_Write:2 ~4_0_
+_TWI_MasterMode_Write:3 =1_
+_TWI_MasterMode_Write:4 =2_
+>>Sprpc <
+_TWI_MasterMode_Write <
+>>Ssef <
+G_TWI_MasterMode_Read sid<
+>>Sptr <
+G_TWI_MasterMode_Read ptr<
+0_|
+1_|
+2_|
+3_|
+4_|8_
+5_|
+6_|
+7_|
+8_|
+9_|
+10_|
+11_|
+12_|
+13_|
+14_|
+15_|18_19_
+16_|
+17_|
+18_|
+19_|
+20_|
+21_|
+22_|
+23_|
+24_|
+25_|
+26_|
+27_|
+>>Smust <
+G_TWI_MasterMode_Read ptb<
+>>Scnal <
+_TWI_MasterMode_Read <
+_TWI_MasterMode_Read:1 ?
+_TWI_MasterMode_Read:2 ?
+_TWI_MasterMode_Read:3 ?
+>>Sprpc <
+_TWI_MasterMode_Read <
+>>

@@ -1,0 +1,2481 @@
+IPAF version 1
+Ssef <
+G_MicroOLED_drawBitmap sid<
+>>Sptr <
+G_MicroOLED_drawBitmap ptr<
+14_|
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_7_14_|
+3_13_6_|
+2_|
+1_2_12_|5_0_
+0_|
+>>Smust <
+G_MicroOLED_drawBitmap ptb<
+>>Scnal <
+_MicroOLED_drawBitmap <
+_MicroOLED_drawBitmap:1 ?
+>>Sprpc <
+_MicroOLED_drawBitmap <
+>>Ssef <
+G_MicroOLED_getScreenBuffer sid<
+>>Sptr <
+G_MicroOLED_getScreenBuffer ptr<
+9_|
+8_|
+7_|
+6_|0_
+5_|
+4_|
+3_|
+2_|
+1_9_|0_
+0_|
+>>Smust <
+G_MicroOLED_getScreenBuffer ptb<
+>>Scnal <
+_MicroOLED_getScreenBuffer <
+>>Sprpc <
+_MicroOLED_getScreenBuffer <
+>>Ssef <
+G_MicroOLED_setDrawMode sid<
+>>Sptr <
+G_MicroOLED_setDrawMode ptr<
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|
+1_|5_
+0_|
+>>Smust <
+G_MicroOLED_setDrawMode ptb<
+>>Scnal <
+_MicroOLED_setDrawMode <
+_MicroOLED_setDrawMode:1 =0_
+>>Sprpc <
+_MicroOLED_setDrawMode <
+>>Ssef <
+G_MicroOLED_setColor sid<
+>>Sptr <
+G_MicroOLED_setColor ptr<
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|
+1_|5_
+0_|
+>>Smust <
+G_MicroOLED_setColor ptb<
+>>Scnal <
+_MicroOLED_setColor <
+_MicroOLED_setColor:1 =1_
+>>Sprpc <
+_MicroOLED_setColor <
+>>Ssef <
+G_MicroOLED_setFontType sid<
+>>Sptr <
+G_MicroOLED_setFontType ptr<
+33_|2_
+32_|33_
+31_|
+30_|
+29_|
+28_|
+27_|
+26_|
+25_|
+24_|
+23_|
+22_|26_
+21_|
+20_|
+19_|
+18_|10_
+17_|
+16_|10_
+15_|
+14_|10_
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|10_
+5_|
+4_9_12_|
+3_11_8_|
+2_7_|
+1_|2_
+0_|
+>>Smust <
+G_MicroOLED_setFontType ptb<
+>>Scnal <
+_MicroOLED_setFontType <
+_MicroOLED_setFontType:1 =0_
+>>Sprpc <
+_MicroOLED_setFontType <
+>>Ssef <
+G_MicroOLED_getFontType sid<
+>>Sptr <
+G_MicroOLED_getFontType ptr<
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|7_
+2_|
+1_|
+0_|
+>>Smust <
+G_MicroOLED_getFontType ptb<
+>>Scnal <
+_MicroOLED_getFontType <
+_fontType ?
+>>Sprpc <
+_MicroOLED_getFontType <
+>>Ssef <
+G_MicroOLED_getTotalFonts sid<
+>>Sptr <
+G_MicroOLED_getTotalFonts ptr<
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_getTotalFonts ptb<
+>>Scnal <
+_MicroOLED_getTotalFonts <
+>>Sprpc <
+_MicroOLED_getTotalFonts <
+>>Ssef <
+G_MicroOLED_getFontTotalChar sid<
+>>Sptr <
+G_MicroOLED_getFontTotalChar ptr<
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|7_
+2_|
+1_|
+0_|
+>>Smust <
+G_MicroOLED_getFontTotalChar ptb<
+>>Scnal <
+_MicroOLED_getFontTotalChar <
+_fontTotalChar ?
+>>Sprpc <
+_MicroOLED_getFontTotalChar <
+>>Ssef <
+G_MicroOLED_getFontStartChar sid<
+>>Sptr <
+G_MicroOLED_getFontStartChar ptr<
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|7_
+2_|
+1_|
+0_|
+>>Smust <
+G_MicroOLED_getFontStartChar ptb<
+>>Scnal <
+_MicroOLED_getFontStartChar <
+_fontStartChar ?
+>>Sprpc <
+_MicroOLED_getFontStartChar <
+>>Ssef <
+G_MicroOLED_getFontHeight sid<
+>>Sptr <
+G_MicroOLED_getFontHeight ptr<
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|7_
+2_|
+1_|
+0_|
+>>Smust <
+G_MicroOLED_getFontHeight ptb<
+>>Scnal <
+_MicroOLED_getFontHeight <
+_fontHeight ?
+>>Sprpc <
+_MicroOLED_getFontHeight <
+>>Ssef <
+G_MicroOLED_getFontWidth sid<
+>>Sptr <
+G_MicroOLED_getFontWidth ptr<
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|7_
+2_|
+1_|
+0_|
+>>Smust <
+G_MicroOLED_getFontWidth ptb<
+>>Scnal <
+_MicroOLED_getFontWidth <
+_fontWidth ?
+>>Sprpc <
+_MicroOLED_getFontWidth <
+>>Ssef <
+G_MicroOLED_getLCDWidth sid<
+>>Sptr <
+G_MicroOLED_getLCDWidth ptr<
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_getLCDWidth ptb<
+>>Scnal <
+_MicroOLED_getLCDWidth <
+>>Sprpc <
+_MicroOLED_getLCDWidth <
+>>Ssef <
+G_MicroOLED_getLCDHeight sid<
+>>Sptr <
+G_MicroOLED_getLCDHeight ptr<
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_getLCDHeight ptb<
+>>Scnal <
+_MicroOLED_getLCDHeight <
+>>Sprpc <
+_MicroOLED_getLCDHeight <
+>>Ssef <
+G_MicroOLED_pixelS sid<
+>>Sptr <
+G_MicroOLED_pixelS ptr<
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_9_18_|
+3_17_8_|
+2_|
+1_2_16_|5_6_7_0_
+0_|
+>>Smust <
+G_MicroOLED_pixelS ptb<
+>>Scnal <
+_MicroOLED_pixelS <
+_MicroOLED_pixelS:1 ?
+_MicroOLED_pixelS:2 ?
+_MicroOLED_pixelS:3 ?
+_MicroOLED_pixelS:4 ?
+>>Sprpc <
+_MicroOLED_pixelS <
+>>Ssef <
+G_MicroOLED_setCursor sid<
+>>Sptr <
+G_MicroOLED_setCursor ptr<
+20_|
+19_|
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_15_|
+11_14_|
+10_20_|
+9_|13_10_
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|
+1_|5_
+0_|
+>>Smust <
+G_MicroOLED_setCursor ptb<
+>>Scnal <
+_MicroOLED_setCursor <
+_MicroOLED_setCursor:1 =0_
+_MicroOLED_setCursor:2 =0_
+>>Sprpc <
+_MicroOLED_setCursor <
+>>Ssef <
+G_MicroOLED_command sid<
+DG_TWI_MasterMode_Write 
+21_
+22_
+>>Sptr <
+G_MicroOLED_command ptr<
+22_|3_
+21_|3_7_
+20_|
+19_|
+18_|
+17_|
+16_|3_
+15_|
+14_|3_
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|3_9_
+7_|10_
+6_|
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_command ptb<
+G_TWI_MasterMode_Write 
+>>Scnal <
+_MicroOLED_command <
+_MicroOLED_command:1 ?
+>>Sprpc <
+_MicroOLED_command <
+_TWI_MasterMode_Write:4 p
+_TWI_MasterMode_Write:3 p
+_TWI_MasterMode_Write:2 n
+_TWI_MasterMode_Write:1 p
+>>Ssef <
+G_MicroOLED_data sid<
+DG_TWI_MasterMode_Write 
+21_
+22_
+>>Sptr <
+G_MicroOLED_data ptr<
+22_|3_
+21_|3_7_
+20_|
+19_|
+18_|
+17_|
+16_|3_
+15_|
+14_|3_
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|3_9_
+7_|10_
+6_|
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_data ptb<
+G_TWI_MasterMode_Write 
+>>Scnal <
+_MicroOLED_data <
+_MicroOLED_data:1 ?
+>>Sprpc <
+_MicroOLED_data <
+_TWI_MasterMode_Write:4 p
+_TWI_MasterMode_Write:3 p
+_TWI_MasterMode_Write:2 n
+_TWI_MasterMode_Write:1 p
+>>Ssef <
+G_MicroOLED_setPageAddress sid<
+DG_MicroOLED_command 
+14_
+15_
+>>Sptr <
+G_MicroOLED_setPageAddress ptr<
+15_|3_
+14_|3_
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_8_|
+4_7_|
+3_13_|
+2_|3_6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_setPageAddress ptb<
+G_MicroOLED_command 
+>>Scnal <
+_MicroOLED_setPageAddress <
+_MicroOLED_setPageAddress:1 ?
+>>Sprpc <
+_MicroOLED_setPageAddress <
+_MicroOLED_command:1 n
+>>Ssef <
+G_MicroOLED_setColumnAddress sid<
+DG_MicroOLED_command 
+15_
+16_
+>>Sptr <
+G_MicroOLED_setColumnAddress ptr<
+16_|3_
+15_|3_
+14_|
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_9_|
+4_8_|
+3_14_|
+2_|3_6_7_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_setColumnAddress ptb<
+G_MicroOLED_command 
+>>Scnal <
+_MicroOLED_setColumnAddress <
+_MicroOLED_setColumnAddress:1 =0_
+>>Sprpc <
+_MicroOLED_setColumnAddress <
+_MicroOLED_command:1 n
+>>Ssef <
+G_MicroOLED_clear sid<
+DG_MicroOLED_setPageAddress 
+44_
+45_
+DG_MicroOLED_setColumnAddress 
+42_
+43_
+DG_MicroOLED_data 
+40_
+41_
+DG_memset 
+38_
+39_
+>>Sptr <
+G_MicroOLED_clear ptr<
+49_|1_
+48_|1_
+47_|49_
+46_|48_
+45_|46_
+44_|47_
+43_|46_
+42_|47_
+41_|48_
+40_|49_
+39_|1_
+38_|1_
+37_|
+36_|
+35_|
+34_|
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|
+27_|31_
+26_|
+25_|
+24_|
+23_|1_
+22_|
+21_|
+20_|
+19_|1_
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_8_13_|
+2_12_7_|
+1_5_6_9_10_11_14_15_16_|0_
+0_|
+>>Smust <
+G_MicroOLED_clear ptb<
+G_memset 
+G_MicroOLED_data 
+G_MicroOLED_setColumnAddress 
+G_MicroOLED_setPageAddress 
+>>Scnal <
+_MicroOLED_clear <
+_memset:r ?
+_MicroOLED_clear:1 ~1_0_l0_h1_
+>>Sprpc <
+_MicroOLED_clear <
+_memset:3 n
+_memset:2 n
+_memset:1 n
+_MicroOLED_data:1 n
+_MicroOLED_setColumnAddress:1 p
+_MicroOLED_setPageAddress:1 n
+>>Ssef <
+G_MicroOLED_begin sid<
+DG_MicroOLED_setFontType 
+38_
+39_
+DG_MicroOLED_setColor 
+
+37_
+DG_MicroOLED_setDrawMode 
+
+36_
+DG_MicroOLED_setCursor 
+
+35_
+DG_MicroOLED_command 
+33_
+34_
+DG_MicroOLED_clear 
+31_
+32_
+>>Sptr <
+G_MicroOLED_begin ptr<
+41_|3_
+40_|3_
+39_|
+38_|
+37_|
+36_|
+35_|
+34_|40_
+33_|41_
+32_|40_34_3_
+31_|41_33_3_
+30_|
+29_|
+28_|
+27_|3_
+26_|
+25_|
+24_|
+23_|3_
+22_|
+21_|
+20_|
+19_|3_
+18_|
+17_|
+16_|
+15_|3_
+14_|
+13_|3_
+12_|
+11_|
+10_|
+9_|3_
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_begin ptb<
+G_MicroOLED_clear 
+G_MicroOLED_command 
+G_MicroOLED_setCursor t
+G_MicroOLED_setDrawMode t
+G_MicroOLED_setColor t
+G_MicroOLED_setFontType t
+>>Scnal <
+_MicroOLED_begin <
+_MicroOLED_setFontType:r ~1_0_l0_h1_
+>>Sprpc <
+_MicroOLED_begin <
+_MicroOLED_clear:1 n
+_MicroOLED_command:1 n
+_MicroOLED_setCursor:2 p
+_MicroOLED_setCursor:1 p
+_MicroOLED_setDrawMode:1 p
+_MicroOLED_setColor:1 p
+_MicroOLED_setFontType:1 p
+>>Ssef <
+G_MicroOLED_invert sid<
+DG_MicroOLED_command 
+14_
+15_
+>>Sptr <
+G_MicroOLED_invert ptr<
+15_|3_
+14_|3_
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_invert ptb<
+G_MicroOLED_command 
+>>Scnal <
+_MicroOLED_invert <
+_MicroOLED_invert:1 ?
+>>Sprpc <
+_MicroOLED_invert <
+_MicroOLED_command:1 n
+>>Ssef <
+G_MicroOLED_contrast sid<
+DG_MicroOLED_command 
+11_
+12_
+>>Sptr <
+G_MicroOLED_contrast ptr<
+12_|3_
+11_|3_
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|3_6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_contrast ptb<
+G_MicroOLED_command 
+>>Scnal <
+_MicroOLED_contrast <
+_MicroOLED_contrast:1 ?
+>>Sprpc <
+_MicroOLED_contrast <
+_MicroOLED_command:1 n
+>>Ssef <
+G_MicroOLED_display sid<
+DG_MicroOLED_setPageAddress 
+34_
+35_
+DG_MicroOLED_setColumnAddress 
+32_
+33_
+DG_MicroOLED_data 
+30_
+31_
+>>Sptr <
+G_MicroOLED_display ptr<
+39_|3_
+38_|3_
+37_|39_
+36_|38_
+35_|36_
+34_|37_
+33_|36_
+32_|37_
+31_|38_
+30_|39_
+29_|
+28_|
+27_|
+26_|
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|24_
+19_|
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|3_
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_8_16_|
+4_15_7_|
+3_14_|10_
+2_|3_6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_display ptb<
+G_MicroOLED_data 
+G_MicroOLED_setColumnAddress 
+G_MicroOLED_setPageAddress 
+>>Scnal <
+_MicroOLED_display <
+>>Sprpc <
+_MicroOLED_display <
+_MicroOLED_data:1 n
+_MicroOLED_setColumnAddress:1 p
+_MicroOLED_setPageAddress:1 n
+>>Ssef <
+G_MicroOLED_clearS sid<
+DG_MicroOLED_setPageAddress 
+55_
+56_
+DG_MicroOLED_setColumnAddress 
+53_
+54_
+DG_MicroOLED_data 
+51_
+52_
+DG_memset 
+49_
+50_
+DG_MicroOLED_display 
+47_
+48_
+>>Sptr <
+G_MicroOLED_clearS ptr<
+60_|3_
+59_|3_
+58_|60_
+57_|59_
+56_|57_
+55_|58_
+54_|57_
+53_|58_
+52_|59_
+51_|60_
+50_|3_
+49_|3_
+48_|52_56_54_
+47_|51_2_55_53_
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|39_
+34_|
+33_|
+32_|
+31_|3_
+30_|
+29_|
+28_|
+27_|
+26_|
+25_|
+24_|
+23_|
+22_|
+21_|25_3_
+20_|
+19_|
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_10_15_24_27_|
+4_26_23_14_9_|
+3_7_8_11_12_13_16_17_18_22_|2_
+2_|
+1_|
+0_|
+>>Smust <
+G_MicroOLED_clearS ptb<
+G_MicroOLED_display 
+G_memset 
+G_MicroOLED_data 
+G_MicroOLED_setColumnAddress 
+G_MicroOLED_setPageAddress 
+>>Scnal <
+_MicroOLED_clearS <
+_memset:r ?
+_MicroOLED_clearS:1 ?
+_MicroOLED_clearS:2 ?
+>>Sprpc <
+_MicroOLED_clearS <
+_memset:3 n
+_memset:2 n
+_memset:1 n
+_MicroOLED_data:1 n
+_MicroOLED_setColumnAddress:1 p
+_MicroOLED_setPageAddress:1 n
+>>Ssef <
+G_MicroOLED_pixel sid<
+DG_MicroOLED_pixelS 
+19_
+20_
+>>Sptr <
+G_MicroOLED_pixel ptr<
+21_|
+20_|21_
+19_|21_
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|3_
+10_|
+9_|3_
+8_|
+7_|3_
+6_|
+5_|
+4_|
+3_|21_
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_pixel ptb<
+G_MicroOLED_pixelS t
+>>Scnal <
+_MicroOLED_pixel <
+_drawMode ?
+_foreColor ?
+_MicroOLED_pixel:1 ?
+_MicroOLED_pixel:2 ?
+>>Sprpc <
+_MicroOLED_pixel <
+_MicroOLED_pixelS:4 n
+_MicroOLED_pixelS:3 n
+_MicroOLED_pixelS:2 n
+_MicroOLED_pixelS:1 n
+>>Ssef <
+G_MicroOLED_lineS sid<
+DG_MicroOLED_pixelS 
+25_
+26_
+>>Sptr <
+G_MicroOLED_lineS ptr<
+27_|
+26_|27_
+25_|27_
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|3_
+10_|
+9_|3_
+8_|
+7_|3_
+6_|
+5_|
+4_|
+3_|27_
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_lineS ptb<
+G_MicroOLED_pixelS t
+>>Scnal <
+_MicroOLED_lineS <
+_MicroOLED_lineS:1 ?
+_MicroOLED_lineS:2 ?
+_MicroOLED_lineS:3 ?
+_MicroOLED_lineS:4 ?
+_MicroOLED_lineS:5 ?
+_MicroOLED_lineS:6 ?
+>>Sprpc <
+_MicroOLED_lineS <
+_MicroOLED_pixelS:4 n
+_MicroOLED_pixelS:3 n
+_MicroOLED_pixelS:2 n
+_MicroOLED_pixelS:1 n
+>>Ssef <
+G_MicroOLED_line sid<
+DG_MicroOLED_lineS 
+59_
+60_
+>>Sptr <
+G_MicroOLED_line ptr<
+66_|
+65_|
+64_|
+63_|
+62_|65_
+61_|
+60_|66_
+59_|66_
+58_|
+57_|
+56_|
+55_|
+54_|
+53_|
+52_|
+51_|
+50_|
+49_|
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|46_
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|
+34_|38_
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|
+27_|
+26_|30_64_63_
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|62_22_61_
+17_|
+16_|
+15_|
+14_|
+13_16_29_32_|
+12_31_28_15_|
+11_27_58_|66_
+10_|11_64_63_14_
+9_|
+8_24_|
+7_23_|
+6_|
+5_21_|
+4_20_|
+3_19_|
+2_|65_62_61_6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_line ptb<
+G_MicroOLED_lineS 
+>>Scnal <
+_MicroOLED_line <
+_drawMode ?
+_foreColor ?
+_MicroOLED_line:1 ?
+_MicroOLED_line:2 ?
+_MicroOLED_line:3 ?
+_MicroOLED_line:4 ?
+>>Sprpc <
+_MicroOLED_line <
+_MicroOLED_lineS:6 n
+_MicroOLED_lineS:5 n
+_MicroOLED_lineS:4 n
+_MicroOLED_lineS:3 n
+_MicroOLED_lineS:2 n
+_MicroOLED_lineS:1 n
+>>Ssef <
+G_MicroOLED_lineH sid<
+DG_MicroOLED_lineS 
+52_
+53_
+>>Sptr <
+G_MicroOLED_lineH ptr<
+58_|
+57_|
+56_|
+55_|57_
+54_|
+53_|58_
+52_|58_
+51_|
+50_|
+49_|
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|40_
+35_|
+34_|
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|32_
+27_|
+26_|14_56_
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|55_22_54_
+17_|
+16_|
+15_|
+14_|
+13_16_|
+12_15_|
+11_51_|58_
+10_|11_56_14_
+9_|
+8_24_|
+7_23_|
+6_|
+5_21_|
+4_20_|
+3_19_|
+2_|57_55_54_6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_lineH ptb<
+G_MicroOLED_lineS 
+>>Scnal <
+_MicroOLED_lineH <
+_drawMode ?
+_foreColor ?
+_MicroOLED_lineH:1 ?
+_MicroOLED_lineH:2 ?
+_MicroOLED_lineH:3 ?
+>>Sprpc <
+_MicroOLED_lineH <
+_MicroOLED_lineS:6 n
+_MicroOLED_lineS:5 n
+_MicroOLED_lineS:4 n
+_MicroOLED_lineS:3 n
+_MicroOLED_lineS:2 n
+_MicroOLED_lineS:1 n
+>>Ssef <
+G_MicroOLED_lineHS sid<
+DG_MicroOLED_lineS 
+52_
+53_
+>>Sptr <
+G_MicroOLED_lineHS ptr<
+60_|
+59_|
+58_|
+57_|
+56_|
+55_|57_
+54_|
+53_|60_
+52_|60_
+51_|
+50_|
+49_|
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|59_
+39_|
+38_|
+37_|
+36_|59_40_
+35_|
+34_|
+33_|
+32_|58_
+31_|
+30_|
+29_|
+28_|58_32_
+27_|
+26_|56_14_
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|55_22_54_
+17_|
+16_|
+15_|
+14_|
+13_16_|
+12_15_|
+11_51_|60_
+10_|11_56_14_
+9_|
+8_24_|
+7_23_|
+6_|57_
+5_21_|
+4_20_|
+3_19_|
+2_|55_54_6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_lineHS ptb<
+G_MicroOLED_lineS 
+>>Scnal <
+_MicroOLED_lineHS <
+_MicroOLED_lineHS:1 ?
+_MicroOLED_lineHS:2 ?
+_MicroOLED_lineHS:3 ?
+_MicroOLED_lineHS:4 ?
+_MicroOLED_lineHS:5 ?
+>>Sprpc <
+_MicroOLED_lineHS <
+_MicroOLED_lineS:6 n
+_MicroOLED_lineS:5 n
+_MicroOLED_lineS:4 n
+_MicroOLED_lineS:3 n
+_MicroOLED_lineS:2 n
+_MicroOLED_lineS:1 n
+>>Ssef <
+G_MicroOLEDlineV sid<
+DG_MicroOLED_lineS 
+52_
+53_
+>>Sptr <
+G_MicroOLEDlineV ptr<
+58_|
+57_|
+56_|
+55_|
+54_|57_
+53_|58_
+52_|58_
+51_|
+50_|
+49_|
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|40_
+35_|
+34_|
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|32_
+27_|
+26_|
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|56_55_24_
+19_|
+18_|54_6_
+17_|
+16_|
+15_|
+14_|
+13_16_23_26_|
+12_25_22_15_|
+11_21_51_|58_
+10_|11_56_55_14_
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|57_54_6_
+1_|
+0_|
+>>Smust <
+G_MicroOLEDlineV ptb<
+G_MicroOLED_lineS 
+>>Scnal <
+_MicroOLEDlineV <
+_drawMode ?
+_foreColor ?
+_MicroOLEDlineV:1 ?
+_MicroOLEDlineV:2 ?
+_MicroOLEDlineV:3 ?
+>>Sprpc <
+_MicroOLEDlineV <
+_MicroOLED_lineS:6 n
+_MicroOLED_lineS:5 n
+_MicroOLED_lineS:4 n
+_MicroOLED_lineS:3 n
+_MicroOLED_lineS:2 n
+_MicroOLED_lineS:1 n
+>>Ssef <
+G_MicroOLED_lineVS sid<
+DG_MicroOLED_lineS 
+52_
+53_
+>>Sptr <
+G_MicroOLED_lineVS ptr<
+60_|
+59_|
+58_|
+57_|
+56_|
+55_|
+54_|
+53_|60_
+52_|60_
+51_|
+50_|
+49_|
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|59_
+39_|
+38_|
+37_|
+36_|59_40_
+35_|
+34_|
+33_|
+32_|58_
+31_|
+30_|
+29_|
+28_|58_32_
+27_|
+26_|
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|24_56_55_
+19_|
+18_|6_54_
+17_|
+16_|
+15_|
+14_|11_
+13_16_23_26_|
+12_25_22_15_|
+11_21_51_|60_
+10_|56_55_14_
+9_|
+8_|
+7_|
+6_|57_
+5_|
+4_|
+3_|
+2_|57_54_6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_lineVS ptb<
+G_MicroOLED_lineS 
+>>Scnal <
+_MicroOLED_lineVS <
+_MicroOLED_lineVS:1 ?
+_MicroOLED_lineVS:2 ?
+_MicroOLED_lineVS:3 ?
+_MicroOLED_lineVS:4 ?
+_MicroOLED_lineVS:5 ?
+>>Sprpc <
+_MicroOLED_lineVS <
+_MicroOLED_lineS:6 n
+_MicroOLED_lineS:5 n
+_MicroOLED_lineS:4 n
+_MicroOLED_lineS:3 n
+_MicroOLED_lineS:2 n
+_MicroOLED_lineS:1 n
+>>Ssef <
+G_MicroOLED_rectS sid<
+DG_MicroOLED_lineHS 
+85_
+86_
+DG_MicroOLED_lineVS 
+83_
+84_
+>>Sptr <
+G_MicroOLED_rectS ptr<
+89_|
+88_|89_
+87_|89_
+86_|87_
+85_|88_
+84_|87_
+83_|88_
+82_|
+81_|
+80_|
+79_|
+78_|
+77_|
+76_|
+75_|
+74_|
+73_|
+72_|
+71_|
+70_|
+69_|
+68_|41_
+67_|
+66_|33_
+65_|
+64_|
+63_|
+62_|
+61_|
+60_|
+59_|
+58_|62_
+57_|
+56_|
+55_|
+54_|
+53_|
+52_|
+51_|
+50_|
+49_|54_53_
+48_|
+47_|7_
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|41_
+36_|
+35_|
+34_|
+33_|
+32_|
+31_|
+30_|
+29_|33_
+28_|
+27_|
+26_|
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|12_24_25_
+19_|
+18_|
+17_|
+16_|
+15_|
+14_18_23_27_52_56_|
+13_55_51_26_22_17_|
+12_21_50_78_|89_
+11_|12_15_16_
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|6_7_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_rectS ptb<
+G_MicroOLED_lineVS 
+G_MicroOLED_lineHS 
+>>Scnal <
+_MicroOLED_rectS <
+_MicroOLED_rectS:1 ?
+_MicroOLED_rectS:2 ?
+_MicroOLED_rectS:3 ?
+_MicroOLED_rectS:4 ?
+_MicroOLED_rectS:5 ?
+_MicroOLED_rectS:6 ?
+>>Sprpc <
+_MicroOLED_rectS <
+_MicroOLED_lineVS:5 n
+_MicroOLED_lineVS:4 n
+_MicroOLED_lineVS:3 n
+_MicroOLED_lineVS:2 n
+_MicroOLED_lineVS:1 n
+_MicroOLED_lineHS:5 n
+_MicroOLED_lineHS:4 n
+_MicroOLED_lineHS:3 n
+_MicroOLED_lineHS:2 n
+_MicroOLED_lineHS:1 n
+>>Ssef <
+G_MicroOLED_rect sid<
+DG_MicroOLED_rectS 
+59_
+60_
+>>Sptr <
+G_MicroOLED_rect ptr<
+61_|
+60_|61_
+59_|61_
+58_|
+57_|
+56_|
+55_|
+54_|
+53_|
+52_|
+51_|
+50_|
+49_|
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|46_
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|
+34_|38_
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|
+27_|
+26_|30_
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|22_
+17_|
+16_|
+15_|
+14_|
+13_16_|
+12_15_|
+11_58_|61_
+10_|14_
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_rect ptb<
+G_MicroOLED_rectS 
+>>Scnal <
+_MicroOLED_rect <
+_drawMode ?
+_foreColor ?
+_MicroOLED_rect:1 ?
+_MicroOLED_rect:2 ?
+_MicroOLED_rect:3 ?
+_MicroOLED_rect:4 ?
+>>Sprpc <
+_MicroOLED_rect <
+_MicroOLED_rectS:6 n
+_MicroOLED_rectS:5 n
+_MicroOLED_rectS:4 n
+_MicroOLED_rectS:3 n
+_MicroOLED_rectS:2 n
+_MicroOLED_rectS:1 n
+>>Ssef <
+G_MicroOLED_rectFillS sid<
+DG_MicroOLED_lineVS 
+59_
+60_
+>>Sptr <
+G_MicroOLED_rectFillS ptr<
+61_|
+60_|61_
+59_|61_
+58_|
+57_|
+56_|
+55_|
+54_|
+53_|
+52_|
+51_|
+50_|
+49_|
+48_|
+47_|
+46_|
+45_|
+44_|11_
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|
+34_|38_
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|
+27_|
+26_|30_
+25_|
+24_|
+23_|
+22_|11_
+21_|
+20_|
+19_|
+18_|22_
+17_|
+16_|
+15_|
+14_|11_
+13_16_21_24_47_49_58_|
+12_57_48_46_23_20_15_|
+11_19_45_56_|61_
+10_|14_
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_rectFillS ptb<
+G_MicroOLED_lineVS 
+>>Scnal <
+_MicroOLED_rectFillS <
+_MicroOLED_rectFillS:1 =0_
+_MicroOLED_rectFillS:2 =0_
+_MicroOLED_rectFillS:3 =127_
+_MicroOLED_rectFillS:4 =31_
+_MicroOLED_rectFillS:5 ?
+_MicroOLED_rectFillS:6 ?
+>>Sprpc <
+_MicroOLED_rectFillS <
+_MicroOLED_lineVS:5 n
+_MicroOLED_lineVS:4 n
+_MicroOLED_lineVS:3 n
+_MicroOLED_lineVS:2 n
+_MicroOLED_lineVS:1 n
+>>Ssef <
+G_MicroOLED_rectFill sid<
+DG_MicroOLED_rectFillS 
+59_
+60_
+>>Sptr <
+G_MicroOLED_rectFill ptr<
+61_|
+60_|61_
+59_|61_
+58_|
+57_|
+56_|
+55_|
+54_|
+53_|
+52_|
+51_|
+50_|
+49_|
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|46_
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|
+34_|38_
+33_|
+32_|
+31_|
+30_|3_
+29_|
+28_|
+27_|
+26_|30_
+25_|
+24_|
+23_|
+22_|3_
+21_|
+20_|
+19_|
+18_|22_
+17_|
+16_|
+15_|
+14_|3_
+13_|
+12_|
+11_|
+10_|14_
+9_|
+8_|
+7_|
+6_|3_
+5_8_13_16_21_24_29_32_|
+4_31_28_23_20_15_12_7_|
+3_11_19_27_58_|61_
+2_|6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_rectFill ptb<
+G_MicroOLED_rectFillS 
+>>Scnal <
+_MicroOLED_rectFill <
+_drawMode ?
+_foreColor ?
+_MicroOLED_rectFill:1 =0_
+_MicroOLED_rectFill:2 =0_
+_MicroOLED_rectFill:3 =127_
+_MicroOLED_rectFill:4 =31_
+>>Sprpc <
+_MicroOLED_rectFill <
+_MicroOLED_rectFillS:6 n
+_MicroOLED_rectFillS:5 n
+_MicroOLED_rectFillS:4 p
+_MicroOLED_rectFillS:3 p
+_MicroOLED_rectFillS:2 p
+_MicroOLED_rectFillS:1 p
+>>Ssef <
+G_MicroOLED_circleS sid<
+DG_MicroOLED_pixelS 
+24_
+25_
+>>Sptr <
+G_MicroOLED_circleS ptr<
+26_|
+25_|26_
+24_|26_
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|3_
+10_|
+9_|3_
+8_|
+7_|3_
+6_|
+5_|
+4_|
+3_|26_
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_circleS ptb<
+G_MicroOLED_pixelS t
+>>Scnal <
+_MicroOLED_circleS <
+_MicroOLED_circleS:1 ?
+_MicroOLED_circleS:2 ?
+_MicroOLED_circleS:3 ?
+_MicroOLED_circleS:4 ?
+_MicroOLED_circleS:5 ?
+>>Sprpc <
+_MicroOLED_circleS <
+_MicroOLED_pixelS:4 n
+_MicroOLED_pixelS:3 n
+_MicroOLED_pixelS:2 n
+_MicroOLED_pixelS:1 n
+>>Ssef <
+G_MicroOLED_circle sid<
+DG_MicroOLED_circleS 
+50_
+51_
+>>Sptr <
+G_MicroOLED_circle ptr<
+52_|
+51_|52_
+50_|52_
+49_|52_
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|
+34_|38_
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|
+27_|
+26_|30_
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|22_
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|
+10_|14_
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_circle ptb<
+G_MicroOLED_circleS 
+>>Scnal <
+_MicroOLED_circle <
+_drawMode ?
+_foreColor ?
+_MicroOLED_circle:1 ?
+_MicroOLED_circle:2 ?
+_MicroOLED_circle:3 ?
+>>Sprpc <
+_MicroOLED_circle <
+_MicroOLED_circleS:5 n
+_MicroOLED_circleS:4 n
+_MicroOLED_circleS:3 n
+_MicroOLED_circleS:2 n
+_MicroOLED_circleS:1 n
+>>Ssef <
+G_MicroOLED_circleFillS sid<
+DG_MicroOLED_pixelS 
+26_
+27_
+>>Sptr <
+G_MicroOLED_circleFillS ptr<
+28_|
+27_|28_
+26_|28_
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|3_
+10_|
+9_|3_
+8_|
+7_|3_
+6_|
+5_|
+4_|
+3_|28_
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_circleFillS ptb<
+G_MicroOLED_pixelS t
+>>Scnal <
+_MicroOLED_circleFillS <
+_MicroOLED_circleFillS:1 ?
+_MicroOLED_circleFillS:2 ?
+_MicroOLED_circleFillS:3 ?
+_MicroOLED_circleFillS:4 ?
+_MicroOLED_circleFillS:5 ?
+>>Sprpc <
+_MicroOLED_circleFillS <
+_MicroOLED_pixelS:4 n
+_MicroOLED_pixelS:3 n
+_MicroOLED_pixelS:2 n
+_MicroOLED_pixelS:1 n
+>>Ssef <
+G_MicroOLED_circleFill sid<
+DG_MicroOLED_circleFillS 
+50_
+51_
+>>Sptr <
+G_MicroOLED_circleFill ptr<
+52_|
+51_|52_
+50_|52_
+49_|52_
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|
+34_|38_
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|
+27_|
+26_|30_
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|22_
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|
+10_|14_
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_circleFill ptb<
+G_MicroOLED_circleFillS 
+>>Scnal <
+_MicroOLED_circleFill <
+_drawMode ?
+_foreColor ?
+_MicroOLED_circleFill:1 ?
+_MicroOLED_circleFill:2 ?
+_MicroOLED_circleFill:3 ?
+>>Sprpc <
+_MicroOLED_circleFill <
+_MicroOLED_circleFillS:5 n
+_MicroOLED_circleFillS:4 n
+_MicroOLED_circleFillS:3 n
+_MicroOLED_circleFillS:2 n
+_MicroOLED_circleFillS:1 n
+>>Ssef <
+G_MicroOLED_drawCharS sid<
+DG_MicroOLED_pixelS 
+29_
+30_
+>>Sptr <
+G_MicroOLED_drawCharS ptr<
+31_|
+30_|31_
+29_|31_
+28_|
+27_|
+26_|
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|4_
+11_|
+10_|4_
+9_|
+8_|4_
+7_|
+6_|
+5_|
+4_|31_
+3_|4_
+2_|
+1_|
+0_|
+>>Smust <
+G_MicroOLED_drawCharS ptb<
+G_MicroOLED_pixelS t
+>>Scnal <
+_MicroOLED_drawCharS <
+_fontMapWidth ?
+_fontType ?
+_fontWidth ?
+_fontHeight ?
+_fontTotalChar ?
+_fontStartChar ?
+_MicroOLED_drawCharS:1 ?
+_MicroOLED_drawCharS:2 ?
+_MicroOLED_drawCharS:3 ?
+_MicroOLED_drawCharS:4 ?
+_MicroOLED_drawCharS:5 ?
+>>Sprpc <
+_MicroOLED_drawCharS <
+_MicroOLED_pixelS:4 n
+_MicroOLED_pixelS:3 n
+_MicroOLED_pixelS:2 n
+_MicroOLED_pixelS:1 n
+>>Ssef <
+G_MicroOLED_write sid<
+DG_MicroOLED_drawCharS 
+65_
+66_
+>>Sptr <
+G_MicroOLED_write ptr<
+67_|
+66_|67_
+65_|67_0_60_
+64_|47_
+63_|
+62_|
+61_|
+60_|
+59_|
+58_|
+57_|
+56_|
+55_|
+54_|
+53_|
+52_|56_57_
+51_|
+50_|
+49_|
+48_|
+47_|67_
+46_|47_50_
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|39_
+34_|
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|
+27_|31_
+26_|
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|23_
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|15_
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|7_
+2_|
+1_|
+0_|
+>>Smust <
+G_MicroOLED_write ptb<
+G_MicroOLED_drawCharS 
+>>Scnal <
+_MicroOLED_write <
+_fontWidth ?
+_drawMode ?
+_foreColor ?
+_cursorX ?
+_cursorY ?
+_fontHeight ?
+_MicroOLED_write:1 ?
+>>Sprpc <
+_MicroOLED_write <
+_MicroOLED_drawCharS:5 n
+_MicroOLED_drawCharS:4 n
+_MicroOLED_drawCharS:3 n
+_MicroOLED_drawCharS:2 n
+_MicroOLED_drawCharS:1 n
+>>Ssef <
+G_MicroOLED_writeS sid<
+DG_MicroOLED_write 
+18_
+19_
+>>Sptr <
+G_MicroOLED_writeS ptr<
+23_|
+22_|
+21_|
+20_|
+19_|22_21_20_
+18_|22_21_20_
+17_|
+16_|
+15_|22_23_
+14_|15_
+13_|
+12_|23_
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_writeS ptb<
+G_MicroOLED_write 
+>>Scnal <
+_MicroOLED_writeS <
+_MicroOLED_write:r =1_
+_MicroOLED_writeS:1 ~4_0_
+>>Sprpc <
+_MicroOLED_writeS <
+_MicroOLED_write:1 n
+>>Ssef <
+G_MicroOLED_drawChar sid<
+DG_MicroOLED_drawCharS 
+50_
+51_
+>>Sptr <
+G_MicroOLED_drawChar ptr<
+52_|
+51_|52_
+50_|52_
+49_|52_
+48_|
+47_|
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|
+34_|38_
+33_|
+32_|
+31_|
+30_|
+29_|
+28_|
+27_|
+26_|30_
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|22_
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|
+10_|14_
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|6_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_drawChar ptb<
+G_MicroOLED_drawCharS 
+>>Scnal <
+_MicroOLED_drawChar <
+_drawMode ?
+_foreColor ?
+_MicroOLED_drawChar:1 ?
+_MicroOLED_drawChar:2 ?
+_MicroOLED_drawChar:3 ?
+>>Sprpc <
+_MicroOLED_drawChar <
+_MicroOLED_drawCharS:5 n
+_MicroOLED_drawCharS:4 n
+_MicroOLED_drawCharS:3 n
+_MicroOLED_drawCharS:2 n
+_MicroOLED_drawCharS:1 n
+>>Ssef <
+G_MicroOLED_scrollStop sid<
+DG_MicroOLED_command 
+9_
+10_
+>>Sptr <
+G_MicroOLED_scrollStop ptr<
+10_|3_
+9_|3_
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_scrollStop ptb<
+G_MicroOLED_command 
+>>Scnal <
+_MicroOLED_scrollStop <
+>>Sprpc <
+_MicroOLED_scrollStop <
+_MicroOLED_command:1 n
+>>Ssef <
+G_MicroOLED_scrollRight sid<
+DG_MicroOLED_scrollStop 
+17_
+18_
+DG_MicroOLED_command 
+15_
+16_
+>>Sptr <
+G_MicroOLED_scrollRight ptr<
+18_|16_
+17_|15_
+16_|3_
+15_|3_
+14_|
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|3_6_7_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_scrollRight ptb<
+G_MicroOLED_command 
+G_MicroOLED_scrollStop 
+>>Scnal <
+_MicroOLED_scrollRight <
+_MicroOLED_scrollRight:1 ?
+_MicroOLED_scrollRight:2 ?
+>>Sprpc <
+_MicroOLED_scrollRight <
+_MicroOLED_command:1 n
+>>Ssef <
+G_MicroOLED_flipVertical sid<
+DG_MicroOLED_command 
+14_
+15_
+>>Sptr <
+G_MicroOLED_flipVertical ptr<
+15_|3_
+14_|3_
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_flipVertical ptb<
+G_MicroOLED_command 
+>>Scnal <
+_MicroOLED_flipVertical <
+_MicroOLED_flipVertical:1 ?
+>>Sprpc <
+_MicroOLED_flipVertical <
+_MicroOLED_command:1 n
+>>Ssef <
+G_MicroOLED_flipHorizontal sid<
+DG_MicroOLED_command 
+14_
+15_
+>>Sptr <
+G_MicroOLED_flipHorizontal ptr<
+15_|3_
+14_|3_
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_|
+3_|
+2_|3_
+1_|
+0_|
+>>Smust <
+G_MicroOLED_flipHorizontal ptb<
+G_MicroOLED_command 
+>>Scnal <
+_MicroOLED_flipHorizontal <
+_MicroOLED_flipHorizontal:1 ?
+>>Sprpc <
+_MicroOLED_flipHorizontal <
+_MicroOLED_command:1 n
+>>

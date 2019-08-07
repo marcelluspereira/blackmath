@@ -1,0 +1,148 @@
+IPAF version 1
+Ssef <
+G_main sid<
+DG_initBoard 
+62_
+63_
+DG_Reset_TWI 
+60_
+61_
+DG_MicroOLED_begin 
+58_
+59_
+DG_MicroOLED_rectFill 
+56_
+57_
+DG_MicroOLED_clear 
+54_
+55_
+DG_MicroOLED_setFontType 
+52_
+53_
+DG_MicroOLED_setCursor 
+
+51_
+DG_MicroOLED_writeS 
+49_
+50_
+DG_MicroOLED_display 
+47_
+48_
+>>Sptr <
+G_main ptr<
+88_|13_
+87_|13_
+86_|79_
+85_|
+84_|
+83_|
+82_|
+81_|
+80_|
+79_|
+78_|79_
+77_|
+76_|
+75_|
+74_|
+73_|88_
+72_|88_
+71_|73_
+70_|73_
+69_|87_
+68_|87_
+67_|69_
+66_|69_
+65_|
+64_|
+63_|13_
+62_|13_
+61_|13_
+60_|13_
+59_|69_65_64_55_53_51_
+58_|73_54_52_
+57_|78_
+56_|86_65_64_
+55_|68_67_66_13_
+54_|72_71_70_13_
+53_|84_82_81_80_77_76_
+52_|85_83_
+51_|75_74_
+50_|78_75_74_
+49_|86_85_84_83_82_81_80_75_74_77_76_64_65_6_
+48_|68_67_66_
+47_|79_72_71_70_
+46_|
+45_|
+44_|
+43_|
+42_|
+41_|
+40_|
+39_|
+38_|
+37_|
+36_|
+35_|13_
+34_|
+33_|
+32_|
+31_|13_
+30_|
+29_|13_
+28_|
+27_|13_
+26_|
+25_|13_
+24_|
+23_|
+22_|
+21_|13_
+20_|
+19_|
+18_|
+17_|13_
+16_|
+15_|
+14_|
+13_|79_
+12_|13_
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|0_
+5_|
+4_|
+3_|
+2_|
+1_|
+0_|
+>>Smust <
+G_main ptb<
+G_MicroOLED_writeS 
+G_MicroOLED_setCursor t
+G_MicroOLED_setFontType t
+G_MicroOLED_rectFill 
+G_MicroOLED_clear 
+G_MicroOLED_display 
+G_MicroOLED_begin 
+G_Reset_TWI t
+G_initBoard 
+>>Scnal <
+_main <
+_MicroOLED_writeS:r =1_
+_MicroOLED_setFontType:r ~1_0_l0_h1_
+>>Sprpc <
+_main <
+_MicroOLED_writeS:1 n
+_MicroOLED_setCursor:2 p
+_MicroOLED_setCursor:1 p
+_MicroOLED_setFontType:1 p
+_MicroOLED_rectFill:4 p
+_MicroOLED_rectFill:3 p
+_MicroOLED_rectFill:2 p
+_MicroOLED_rectFill:1 p
+_MicroOLED_clear:1 n
+>>
